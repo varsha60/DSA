@@ -11,11 +11,184 @@
             "id": "c1b94463de66a532",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Any Base To Decimal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb9270ad484e9886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Decimal To Any Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd8a54c22e2d6bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Single Number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e884ab75a607f7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Single Number II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc0f27f243b68b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Single Number III.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79b424501991b915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Finding Two Missing Number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03aa85839fdef90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Subarrays with Bitwise OR 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0866f8a169b4618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Number Of 1 Bits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fac6164357753768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Set Bit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adeea29072076720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Help From Sam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8be52d71030ebb7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Help From Sam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98f72872820f0497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Find nth Magic Number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39a39cc56945c585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Reverse Bits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de7cd9a60655ca58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Maximum And Pair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cde71204dc752ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BitManipulation/Decimal To Any Base.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -81,6 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BitManipulation/Decimal To Any Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BitManipulation/Decimal To Any Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Index.md"
+                "file": "BitManipulation/Decimal To Any Base.md"
               }
             }
           }
@@ -142,8 +317,22 @@
   },
   "active": "5008db0d03d22b94",
   "lastOpenFiles": [
-    "README.md",
+    "BitManipulation/Maximum And Pair.md",
+    "BitManipulation/Reverse Bits.md",
+    "BitManipulation/Find nth Magic Number.md",
+    "BitManipulation/Help From Sam.md",
+    "BitManipulation/Unset ith Bit.md",
+    "BitManipulation/Set Bit.md",
+    "BitManipulation/Number Of 1 Bits.md",
+    "BitManipulation/Subarrays with Bitwise OR 1.md",
+    "BitManipulation/Finding Two Missing Number.md",
+    "BitManipulation/Single Number III.md",
+    "BitManipulation/Single Number II.md",
+    "BitManipulation/Single Number.md",
+    "BitManipulation/Decimal To Any Base.md",
+    "BitManipulation/Any Base To Decimal.md",
     "Arrays/Index.md",
+    "README.md",
     "Arrays/Array Rotation.md",
     "Arrays/Special Subsequences \"AG\".md",
     "Arrays/Number Of Digit One.md",
@@ -154,20 +343,6 @@
     "Arrays/Sum Of All Submatrices.md",
     "Arrays/Row With Maximum Number Of Ones.md",
     "Arrays/Search in a row wise and column wise sorted matrix.md",
-    "Arrays/Row To Column Zero.md",
-    "Arrays/Rotate Matrix.md",
-    "Arrays/AntiDiagonals.md",
-    "Arrays/Add One To Number.md",
-    "Arrays/Flip.md",
-    "Arrays/Rain Water Trapped.md",
-    "Arrays/Continuous Sum Query.md",
-    "Arrays/Majority Element II.md",
-    "Arrays/Majority Element.md",
-    "Arrays/Special Index.md",
-    "Arrays/Spiral Order Matrix II.md",
-    "Arrays/Subarray With Least Average.md",
-    "Arrays/Minimum Swaps.md",
-    "Arrays/Subarray With Given Sum And Length.md",
     "Arrays",
     "Maths",
     "BitManipulation",
