@@ -1,5 +1,5 @@
 # List Of The DSA Problems Practiced
-- Arrays
+## Arrays
 1. [Array Rotation](https://github.com/varsha60/DSA/blob/main/Arrays/Array%20Rotation.md)
 2. [Multiple left rotations of the array](https://github.com/varsha60/DSA/blob/main/Arrays/Multiple%20left%20rotations%20of%20the%20array.md)
 3. [Equilibrium index of an array](https://github.com/varsha60/DSA/blob/main/Arrays/Equilibrium%20index%20of%20an%20array.md)
@@ -36,4 +36,21 @@
 34. [Merge Intervals](https://github.com/varsha60/DSA/blob/main/Arrays/Merge%20Intervals.md)
 35. [First Missing Integer](https://github.com/varsha60/DSA/blob/main/Arrays/First%20Missing%20Integer.md)
 36. [Next Permutation](https://github.com/varsha60/DSA/blob/main/Arrays/Next%20Permutation.md)
-37. [Number Of Digit One](https://github.com/varsha60/DSA/blob/main/Number%20Of%20Digit%20One.md)
+37. [Number Of Digit One](https://github.com/varsha60/DSA/blob/main/Arrays/Number%20Of%20Digit%20One.md)
+
+## 
+## Bit Manipulation
+1. [Any base to decimal](https://github.com/varsha60/DSA/blob/main/BitManipulation/Any%20Base%20To%20Decimal.md)
+2. [Decimal to Any Base](https://github.com/varsha60/DSA/blob/main/BitManipulation/Decimal%20To%20Any%20Base.md)
+3. [Single Number](https://github.com/varsha60/DSA/blob/main/BitManipulation/Single%20Number.md)
+4. [Single Number II](https://github.com/varsha60/DSA/blob/main/BitManipulation/Single%20Number%20II.md)
+5. [Single Number III](https://github.com/varsha60/DSA/blob/main/BitManipulation/Single%20Number%20III.md)
+6. [Find Two Missing Numbers](https://github.com/varsha60/DSA/blob/main/BitManipulation/Finding%20Two%20Missing%20Number.md)
+7. [Subarrays with Bitwise OR 1](https://github.com/varsha60/DSA/blob/main/BitManipulation/Subarrays%20with%20Bitwise%20OR%201.md)
+8. [Number of 1 Bits](https://github.com/varsha60/DSA/blob/main/BitManipulation/Number%20Of%201%20Bits.md)
+9. [Set Bit](https://github.com/varsha60/DSA/blob/main/BitManipulation/Set%20Bit.md)
+10. [Unset i-th bit](https://github.com/varsha60/DSA/blob/main/BitManipulation/Unset%20ith%20Bit.md)
+11. [Help From Sam](https://github.com/varsha60/DSA/blob/main/BitManipulation/Help%20From%20Sam.md)
+12. [Find nth Magic Number](https://github.com/varsha60/DSA/blob/main/BitManipulation/Find%20nth%20Magic%20Number.md)
+13. [Reverse Bits](https://github.com/varsha60/DSA/blob/main/BitManipulation/Reverse%20Bits.md)
+14. [Maximum AND Pair](https://github.com/varsha60/DSA/blob/main/BitManipulation/Maximum%20And%20Pair.md)
