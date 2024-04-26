@@ -54,3 +54,13 @@
 12. [Find nth Magic Number](https://github.com/varsha60/DSA/blob/main/BitManipulation/Find%20nth%20Magic%20Number.md)
 13. [Reverse Bits](https://github.com/varsha60/DSA/blob/main/BitManipulation/Reverse%20Bits.md)
 14. [Maximum AND Pair](https://github.com/varsha60/DSA/blob/main/BitManipulation/Maximum%20And%20Pair.md)
+
+##
+## Strings
+1. [Toggle Case](https://github.com/varsha60/DSA/blob/main/Strings/Add%20Binary%20Strings.md)
+2. [String operations](https://github.com/varsha60/DSA/blob/main/Strings/String%20operations.md)
+3. [Isalnum()](https://github.com/varsha60/DSA/blob/main/Strings/Isalnum().md)
+4. [Reverse the String](https://github.com/varsha60/DSA/blob/main/Strings/Reverse%20the%20String.md)
+5. [Longest Palindromic Substring](https://github.com/varsha60/DSA/blob/main/Strings/Longest%20Palindromic%20Substring.md)
+6. [Longest Common Prefix](https://github.com/varsha60/DSA/blob/main/Strings/Longest%20Common%20Prefix.md)
+7. [Add Binary Strings](https://github.com/varsha60/DSA/blob/main/Strings/Add%20Binary%20Strings.md)
