@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arrays/Index.md"
+              }
             }
           }
         ]
@@ -138,12 +140,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1b94463de66a532",
+  "active": "5008db0d03d22b94",
   "lastOpenFiles": [
+    "README.md",
     "Arrays/Index.md",
     "Arrays/Array Rotation.md",
     "Arrays/Special Subsequences \"AG\".md",
-    "Number Of Digit One.md",
+    "Arrays/Number Of Digit One.md",
     "Arrays/Next Permutation.md",
     "Arrays/First Missing Integer.md",
     "Arrays/Merge Intervals.md",
@@ -165,7 +168,6 @@
     "Arrays/Subarray With Least Average.md",
     "Arrays/Minimum Swaps.md",
     "Arrays/Subarray With Given Sum And Length.md",
-    "Arrays/Max Contiguous Subarray Sum - Kaden's.md",
     "Arrays",
     "Maths",
     "BitManipulation",
