@@ -1,4 +1,4 @@
-# List of the dsa problems practiced
+# List Of The DSA Problems Practiced
 - Arrays
 1. [Array Rotation](https://github.com/varsha60/DSA/blob/main/Arrays/Array%20Rotation.md)
 2. [Multiple left rotations of the array](https://github.com/varsha60/DSA/blob/main/Arrays/Multiple%20left%20rotations%20of%20the%20array.md)
